@@ -12,3 +12,5 @@ mathematical expression and
 The result.
 4. Clear Screen Button.
 5. Calculate button (=).
+
+// http://127.0.0.1:5501/.vscode/Simple%20Calculator/index.html
